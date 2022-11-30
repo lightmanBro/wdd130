@@ -1,4 +1,4 @@
-.box {
+    .box {
 
     width: 30%;
     border: 2px solid black;
@@ -21,7 +21,7 @@ p {
 .container2 p:nth-of-type(3){text-align: end;}
 
 .container3 {
-    margin-left: 800px;
+     margin-left: 800px;
 }
 .container3 p:nth-of-type(2){text-align: center;}
 .container3 p:nth-of-type(3){text-align: end;}
